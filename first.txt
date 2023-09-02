@@ -1,0 +1,1 @@
+This is text file of name first.txt and i am learning git/github.
